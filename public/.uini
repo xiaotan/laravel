@@ -1,0 +1,1 @@
+open_basedir="D:\Web\www\Laravel\;D:\Web\www\Laravel\public\;D:\Web\UPUPW_NP5.6\memcached\;D:\Web\UPUPW_NP5.6\phpmyadmin\;D:\Web\UPUPW_NP5.6\temp\;C:\WINDOWS\Temp\"
